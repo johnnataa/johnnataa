@@ -1,13 +1,8 @@
 <div align="center">
-
-<div style="width: 30; max-width: 100;">
   
 ![Kakashi](https://github.com/johnnataa/johnnataa/assets/147341840/9fbf2a4a-0b3b-41bc-9dcd-f5aed5a8081b)
 
-</div>
-
 ## About Me
-
 📚 Full Stack Web Developer<br><br>
 <a href="https://www.linkedin.com/in/johnnata-silva-650554291" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
@@ -30,10 +25,13 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=johnnataa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnataa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=johnnataa&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnataa&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-[![](https://visitcount.itsvg.in/api?id=johnnataa&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+---
+[![](https://visitcount.itsvg.in/api?id=johnnataa&icon=0&color=12)](https://visitcount.itsvg.in)
 
 </div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
