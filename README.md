@@ -3,7 +3,7 @@
 ![Kakashi](https://github.com/johnnataa/johnnataa/assets/147341840/9fbf2a4a-0b3b-41bc-9dcd-f5aed5a8081b)
 
 ## About Me
-📚 Full Stack Web Developer<br><br>
+📚 Full Stack Developer<br><br>
 <a href="https://www.linkedin.com/in/johnnata-silva-650554291" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 ## 💻 Tech Stack:
@@ -15,6 +15,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,8 +26,11 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=johnnataa&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnataa&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="middle">
+<a href="https://github.com/johnnataa">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnataa&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnataa&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=johnnataa&icon=0&color=12)](https://visitcount.itsvg.in)
